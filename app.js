@@ -23,6 +23,16 @@ const store = {
         '2005'
       ],
       correctAnswer: '2019'
+    },
+    {
+      question: 'What color is a tomato?',
+      answers: [
+        'black',
+        'blue',
+        'red',
+        'white'
+      ],
+      correctAnswer: '2019'
     }
   ],
   quizStarted: false,
